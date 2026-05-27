@@ -1,5 +1,9 @@
 # Netflix Clone UI
 
+<div align="center">
+  <img src="./assets/netflix_preview1.jpg" alt="Netflix Clone Banner" width="100%" />
+</div>
+
 A responsive Netflix-inspired landing page built using HTML and CSS. This project was created to practice frontend development, responsive web design, and modern UI styling techniques.
 
 ## Features
