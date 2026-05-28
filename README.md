@@ -25,7 +25,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS. This projec
 - Improving website responsiveness across devices
 
 ## Live Demo
-🔗 [View Project](YOUR_LIVE_DEMO_LINK)
+🔗 [View Project](https://netflix-clone-ui-70.vercel.app/)
 
 ## Project Status
 Completed frontend UI clone project for learning and practice purposes.
