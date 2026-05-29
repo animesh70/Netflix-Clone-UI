@@ -25,7 +25,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS. This projec
 - Improving website responsiveness across devices
 
 ## Live Demo
-🔗 [View Project](https://heartfelt-cucurucho-21ad57.netlify.app/)
+🔗 [View Project](animesh70-1st-project.netlify.app)
 
 ## Project Status
 Completed frontend UI clone project for learning and practice purposes.
