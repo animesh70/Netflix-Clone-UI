@@ -24,8 +24,8 @@ A responsive Netflix-inspired landing page built using HTML and CSS. This projec
 - Modern webpage styling techniques
 - Improving website responsiveness across devices
 
-## Live Demo
-🔗 [View Project](https://animesh70.github.io/Netflix-Clone-UI/)
+## Project Preview
+🔗 [Watch Project Video](https://www.youtube.com/watch?v=u6AJVXl09pQ)
 
 ## Project Status
 Completed frontend UI clone project for learning and practice purposes.
